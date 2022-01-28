@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee
-image: /img/unbroken-001.jpg
+image: /img/chemex.jpg
 heading: Great coffee with a conc
 subheading: Support sustainable farmin
 mainpitch:
